@@ -2,7 +2,7 @@
   {
     "full_name": "phoenixframework/phoenix",
     "stargazers_count": 17325,
-    "open_issues_count": 29,
+    "open_issues_count": 20,
     "forks_count": 2312
   },
   {
@@ -25,31 +25,31 @@
   },
   {
     "full_name": "keras-team/keras",
-    "stargazers_count": 52979,
-    "open_issues_count": 287,
-    "forks_count": 18861
+    "stargazers_count": 52983,
+    "open_issues_count": 288,
+    "forks_count": 18862
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 160186,
-    "open_issues_count": 3032,
-    "forks_count": 85722
+    "stargazers_count": 160193,
+    "open_issues_count": 2963,
+    "forks_count": 85725
   },
   {
     "full_name": "jupyterlab/jupyterlab",
-    "stargazers_count": 11547,
-    "open_issues_count": 1975,
+    "stargazers_count": 11549,
+    "open_issues_count": 1979,
     "forks_count": 2131
   },
   {
     "full_name": "jupyterhub/jupyterhub",
     "stargazers_count": 6435,
-    "open_issues_count": 191,
+    "open_issues_count": 192,
     "forks_count": 1631
   },
   {
     "full_name": "jupyter/jupyter",
-    "stargazers_count": 12896,
+    "stargazers_count": 12895,
     "open_issues_count": 187,
     "forks_count": 3335
   },
@@ -57,13 +57,13 @@
     "full_name": "elixirschool/elixirschool",
     "stargazers_count": 3148,
     "open_issues_count": 32,
-    "forks_count": 865
+    "forks_count": 866
   },
   {
     "full_name": "elixir-lang/elixir",
-    "stargazers_count": 19247,
-    "open_issues_count": 19,
-    "forks_count": 2761
+    "stargazers_count": 19250,
+    "open_issues_count": 20,
+    "forks_count": 2762
   },
   {
     "full_name": "ruby/rake",
@@ -74,14 +74,14 @@
   {
     "full_name": "ruby/ruby",
     "stargazers_count": 18554,
-    "open_issues_count": 358,
+    "open_issues_count": 354,
     "forks_count": 4909
   },
   {
     "full_name": "rails/rails",
-    "stargazers_count": 49320,
-    "open_issues_count": 641,
-    "forks_count": 19810
+    "stargazers_count": 49322,
+    "open_issues_count": 643,
+    "forks_count": 19813
   },
   {
     "full_name": "smpallen99/ex_admin",
