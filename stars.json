@@ -1,9 +1,9 @@
 [
   {
     "full_name": "phoenixframework/phoenix",
-    "stargazers_count": 17360,
-    "open_issues_count": 35,
-    "forks_count": 2323
+    "stargazers_count": 17370,
+    "open_issues_count": 25,
+    "forks_count": 2326
   },
   {
     "full_name": "armandofox/alexa-marantz-py",
@@ -13,57 +13,57 @@
   },
   {
     "full_name": "DamirSvrtan/fasterer",
-    "stargazers_count": 1507,
+    "stargazers_count": 1510,
     "open_issues_count": 10,
     "forks_count": 61
   },
   {
     "full_name": "rubocop/rubocop",
-    "stargazers_count": 11550,
-    "open_issues_count": 221,
+    "stargazers_count": 11551,
+    "open_issues_count": 220,
     "forks_count": 2795
   },
   {
     "full_name": "keras-team/keras",
-    "stargazers_count": 53138,
-    "open_issues_count": 260,
-    "forks_count": 18886
+    "stargazers_count": 53158,
+    "open_issues_count": 254,
+    "forks_count": 18890
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 160473,
-    "open_issues_count": 2884,
-    "forks_count": 85768
+    "stargazers_count": 160506,
+    "open_issues_count": 2860,
+    "forks_count": 85780
   },
   {
     "full_name": "jupyterlab/jupyterlab",
-    "stargazers_count": 11588,
-    "open_issues_count": 1972,
+    "stargazers_count": 11592,
+    "open_issues_count": 1976,
     "forks_count": 2148
   },
   {
     "full_name": "jupyterhub/jupyterhub",
-    "stargazers_count": 6452,
+    "stargazers_count": 6454,
     "open_issues_count": 185,
-    "forks_count": 1636
+    "forks_count": 1635
   },
   {
     "full_name": "jupyter/jupyter",
-    "stargazers_count": 12929,
-    "open_issues_count": 190,
-    "forks_count": 3334
+    "stargazers_count": 12936,
+    "open_issues_count": 192,
+    "forks_count": 3336
   },
   {
     "full_name": "elixirschool/elixirschool",
-    "stargazers_count": 3153,
-    "open_issues_count": 35,
-    "forks_count": 869
+    "stargazers_count": 3152,
+    "open_issues_count": 17,
+    "forks_count": 870
   },
   {
     "full_name": "elixir-lang/elixir",
-    "stargazers_count": 19336,
+    "stargazers_count": 19348,
     "open_issues_count": 18,
-    "forks_count": 2772
+    "forks_count": 2774
   },
   {
     "full_name": "ruby/rake",
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "ruby/ruby",
-    "stargazers_count": 18597,
-    "open_issues_count": 344,
-    "forks_count": 4922
+    "stargazers_count": 18605,
+    "open_issues_count": 347,
+    "forks_count": 4926
   },
   {
     "full_name": "rails/rails",
-    "stargazers_count": 49390,
-    "open_issues_count": 630,
-    "forks_count": 19837
+    "stargazers_count": 49399,
+    "open_issues_count": 632,
+    "forks_count": 19844
   },
   {
     "full_name": "smpallen99/ex_admin",
-    "stargazers_count": 1187,
+    "stargazers_count": 1188,
     "open_issues_count": 135,
     "forks_count": 279
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "JuanitoFatas/fast-ruby",
-    "stargazers_count": 5162,
+    "stargazers_count": 5163,
     "open_issues_count": 71,
     "forks_count": 373
   },
